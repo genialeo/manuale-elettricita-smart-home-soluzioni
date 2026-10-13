@@ -1,0 +1,7 @@
+# Pacchetti Python usati dagli esempi (installazione: pip install -r requirements.txt)
+requests>=2.31
+websockets>=11
+paho-mqtt>=2.0
+zeroconf>=0.100
+tinytuya>=1.17
+tuya-connector-python==0.1.2
